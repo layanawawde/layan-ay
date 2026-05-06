@@ -4,7 +4,7 @@
 
 \## Group Code
 
-uoh-rn01
+layan-ay
 
 
 
@@ -86,13 +86,13 @@ In this run, the RNN achieved the lowest MSE loss. This may happen because the c
 
 
 
-
-
-
-
-
-
 \## How to run
+
+
+
+To generate one example:
+
+
 
 ```bash
 
@@ -162,9 +162,9 @@ Some assignment details were not explicitly defined, so the following choices we
 
 
 
-text
+```text
 
-uoh-rn01-ex01/
+layan-ay/
 
 &#x20; README.md
 
@@ -192,11 +192,11 @@ uoh-rn01-ex01/
 
 &#x20;   test\_models.py
 
-
+```
 
 
 
 \## GitHub Link
 
-https://github.com/layanawawde/uoh-rn01-ex01
+https://github.com/layanawawde/layan-ay
 
