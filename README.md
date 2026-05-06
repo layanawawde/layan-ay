@@ -198,5 +198,5 @@ uoh-rn01-ex01/
 
 \## GitHub Link
 
-To be added after uploading the project to GitHub.
+https://github.com/layanawawde/uoh-rn01-ex01
 
